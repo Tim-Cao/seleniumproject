@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.seleniumproject.SignInTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-15T05:28:45" hostname="P3-YANGCAO" time="7.855">
+  <properties/>
+  <testcase name="login()" classname="com.example.seleniumproject.SignInTest" time="7.855"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}) on port 12645
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+十一月 15, 2021 1:28:49 下午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: W3C
+]]></system-err>
+</testsuite>
